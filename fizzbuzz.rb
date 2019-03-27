@@ -13,7 +13,7 @@ def fizzbuzz(number)
  end
 end
 
-fizzbuzz(3)
+fizzbuzz("Fizz")
 fizzbuzz(5)
 fizzbuzz(15)
 fizzbuzz(4)
